@@ -2,10 +2,11 @@
   "name": "live-well",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://tneschke.github.io/Bots/",
+  "homepage": "https://tneschke.github.io/Bots/",
   "dependencies": {
     "antd": "^4.7.2",
     "d3": "^6.3.0",
+    "gh-pages": "^3.1.0",
     "react": "^16.10.2",
     "react-bootstrap": "^0.32.4",
     "react-color": "^2.18.1",
