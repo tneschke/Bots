@@ -2,7 +2,7 @@
   "name": "live-well",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tneschke.github.io/Bots/",
+  "homepage": "https://tneschke.github.io/Bots/public/index.html",
   "dependencies": {
     "antd": "^4.7.2",
     "d3": "^6.3.0",
